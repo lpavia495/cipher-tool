@@ -1,5 +1,3 @@
-4/20 
-	Started drafting potential new ideas that would fit the assignment's requirements
 4/21
 	Starting working on the caesar cipher 
 4/22
