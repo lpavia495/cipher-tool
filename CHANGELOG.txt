@@ -1,0 +1,16 @@
+4/20 
+	Started drafting potential new ideas that would fit the assignment's requirements
+4/21
+	Starting working on the caesar cipher 
+4/22
+	Got the caesar cipher to work properly 
+	Started working on the vigenere cipher 
+4/23
+	Got the vigenere cipher to work properly
+	Started working on file input/output
+4/24
+	File input and output now works properly
+4/25
+	Implemented the new game mode
+4/26
+	Added brute force encyption

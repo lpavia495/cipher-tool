@@ -1,0 +1,4 @@
+Assignmenet 1.10-2 Choose Your Own Assignment
+Luke Pavia
+
+For this assignment I decided to create a custom encryption/decryption tool which allows the user to encrypt or decrypt messages. There are three main modes that a user can use which are text encryption, file encryption, and game respectively. If the user decides to use the text encryption, the user can text anything into console and decide to encode it either using the caesar cipher or the vigenere cipher. The file encryption does the exact same thing except the user can input the filepath of the file to encrypt and then the program will output the encrypted/decrypted text into a brand new file. Otherwise, if the user decides to play the game, then the program will form a random sentence and randomly encrypt it. After that, the user will have to try and decrypt it and guess the original sentence.
